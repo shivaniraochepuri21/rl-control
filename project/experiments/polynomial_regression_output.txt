@@ -1,0 +1,9 @@
+Tr Model MSE: 2.8995797558060347e-27
+SSE Model MSE: 7.84150630842739e-30
+CE Model MSE: 9.671251569585178e-27
+/home/skone/.local/lib/python3.10/site-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but PolynomialFeatures was fitted with feature names
+  warnings.warn(
+Predicted Tr: [-19.93399058]
+Predicted SSE: [1.78138477]
+Predicted CE: [-38.45096298]
+
